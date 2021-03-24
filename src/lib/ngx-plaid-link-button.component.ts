@@ -7,7 +7,7 @@ function getWindow(): any {
 }
 
 @Component({
-  selector: "mr-ngx-plaid-link-button",
+  selector: "ngx-plaid-link-button",
   template: `
     <button ngxPlaidLink
             [class]="className"
